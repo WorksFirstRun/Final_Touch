@@ -1,3 +1,6 @@
+Image editing app with some ready to use filters
+it was a part of college assignment
+
 # Final Touch ==> Project Files
 # Images ==> Some Images used in the Program 
 
